@@ -15,7 +15,7 @@
 . . . . . . 5 5 5 5 . . . . . . 
 . . . . . . 5 5 5 5 . . . . . . 
 . . . . . . . 5 5 . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"bS}8XW@}Z@XJ8:m+nE-Q"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="vDAWpTEK4*HDJ;lUB[9n"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="variables_set" id="hKWZ8SFa+~ZEj6#Sx7gW" disabled="true" x="30" y="250"><field name="VAR" id="-tJ+LbxU!|NcVHS68*_j">mySprite2</field><value name="VALUE"><shadow type="math_number" disabled="true"><field name="NUM">0</field></shadow><block type="spritescreate" id="JD%$0R)=S:r@7Uhh_tdq" disabled="true"><value name="img"><shadow type="screen_image_picker" id="3e*h_*fS3!Y+i,`Z6(]4" disabled="true"><field name="img">img`
+`</field><data>{"commentRefs":[],"fieldData":{"img":"bS}8XW@}Z@XJ8:m+nE-Q"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="vDAWpTEK4*HDJ;lUB[9n"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="gameupdate" id="Eh*h+1Y25#uX7Is!Cp7K" x="50" y="350"><statement name="HANDLER"><block type="variables_set" id="hKWZ8SFa+~ZEj6#Sx7gW"><field name="VAR" id="-tJ+LbxU!|NcVHS68*_j">mySprite2</field><value name="VALUE"><shadow type="math_number" disabled="true"><field name="NUM">0</field></shadow><block type="spritescreate" id="JD%$0R)=S:r@7Uhh_tdq"><value name="img"><shadow type="screen_image_picker" id="3e*h_*fS3!Y+i,`Z6(]4"><field name="img">img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
@@ -32,4 +32,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"3e*h_*fS3!Y+i,`Z6(]4"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="!$jf,Xzh5{SVww/vq30H" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block><block type="gameupdate" id="Eh*h+1Y25#uX7Is!Cp7K" x="50" y="350"></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"3e*h_*fS3!Y+i,`Z6(]4"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="!$jf,Xzh5{SVww/vq30H"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
